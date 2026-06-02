@@ -60,3 +60,29 @@
 - 🌟 探索热门：<a href="https://github.com/trending" target="_blank">GitHub Trending</a>
 - 🎯 主题分类：<a href="https://github.com/topics" target="_blank">Topics</a>
 - 📖 新手友好：<a href="https://github.com/topics/good-first-project" target="_blank">Good First Project</a>
+
+
+## 📚 电子书资源导航
+> 资源仅限个人学习查阅，尊重版权，请勿商用、二次倒卖分发
+
+### 一、综合类全品类书库（文学/历史/经管/小说/人文）
+| 仓库名称 | Github地址 | 资源格式 | 备注 |
+| ---- | ---- | ---- | ---- |
+| ebook-treasure-chest | https://github.com/jbiaojerry/ebook-treasure-chest | EPUB/MOBI/AZW3 | 微信读书海量电子书，持续更新 |
+| boox/books | https://github.com/boox/books | PDF | 老牌PDF藏书库，分类规整，可整库克隆 |
+| Book-Searcher搜书工具 | https://github.com/book-searcher-org/book-searcher | PDF/EPUB | Z-Library检索工具，配套网页：https://zbook.lol |
+| Anna’s Archive(外网书站) | https://annas-archive.org | PDF/EPUB | 全球海量中英文图书，免注册直下 |
+
+### 二、计算机/编程技术电子书
+| 仓库名称 | Github地址 | 资源格式 | 备注 |
+| ---- | ---- | ---- | ---- |
+| free-programming-books-zh_CN | https://github.com/justjavac/free-programming-books-zh_CN | PDF/在线文档 | 国内知名免费中文编程书单 |
+| doocs/technical-books | https://github.com/doocs/technical-books | PDF | 计算机全栈经典书籍合集 |
+| CS-Books | https://gitcode.com/forthespada/CS-Books | PDF | 计算机考研、面试、开发工具书 |
+| pumpkin-book（机器学习西瓜书） | https://github.com/datawhalechina/pumpkin-book | PDF | 周志华机器学习配套习题与讲义 |
+| free-programming-books(全球) | https://github.com/EbookFoundation/free-programming-books | 多格式 | 开源编程书总汇，查看README-zh.md中文目录 |
+
+### 🧭 使用小贴士
+1. 仓库内 `Ctrl+F` 搜索书名快速定位下载链接
+2. 整库下载：`git clone 对应仓库SSH/HTTPS地址`
+3. 优先选用近一年持续更新的仓库，资源链接存活率更高
